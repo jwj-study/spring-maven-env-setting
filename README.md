@@ -24,6 +24,15 @@ tomcat path 수정, java build path jdk 버젼 변경, project facet jdk 버젼 
 
 spring legacy project 생성
 
+# pom.xml 세팅
+- mybatis
+- database (oracle, mysql)
+- Hikari pool
+- log4j
+- jstl
+- junit
+- lombok
+
 # environment
 jdk 1.8
 lombok 1.18.2
